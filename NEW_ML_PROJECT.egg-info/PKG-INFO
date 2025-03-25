@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: NEW-ML-PROJECT
+Version: 0.0.1
+Author: Akash Yadav
+Author-email: ay284532@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
