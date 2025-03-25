@@ -1,0 +1,7 @@
+# Ignore virtual environment
+MLPVENB/
+MLPVENB/*
+
+# Ignore compiled binaries
+*.dll
+*.pyd
