@@ -5,3 +5,4 @@ Practice-new-type-of-ml-project/
 # Ignore compiled binaries
 *.dll
 *.pyd
+.artifacts
